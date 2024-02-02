@@ -55,8 +55,7 @@ namespace Lab3App
             {
                 collectable.Display();
             }
-            Console.WriteLine("Press any key to continue...");
-            Console.ReadKey();
+            
         }
     }
 }
